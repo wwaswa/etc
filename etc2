@@ -1,0 +1,5 @@
+##!bin/bash!
+##Author: Creven Waswa
+##Date: 10-01-2024
+##File to be used in verifying git push
+Use this txt file to push to etc repo and confirm if it works
